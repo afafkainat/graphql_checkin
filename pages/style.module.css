@@ -1,0 +1,97 @@
+.layoutBack {
+  background: white !important;
+}
+.HeaderStyle {
+  background: white;
+  top: 0;
+  padding: 0px;
+  z-index: 1;
+  width: 100%;
+  position: sticky;
+}
+.divStyle {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+.innerStyle {
+  float: left !important;
+  padding-left: 25px !important;
+  top: 0px !important;
+}
+.MenuStyle {
+  padding-top: 17px;
+  float: right;
+  background: none;
+  border: none;
+}
+.buttondiv {
+  display: flex !important;
+  justify-content: space-around !important;
+}
+.imageDiv {
+  padding-right: 25px;
+}
+.carddiv {
+  display: flex !important;
+  justify-content: space-between !important;
+  margin-top: 20px;
+}
+.insidecard {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.cardheader {
+  height: 40px !important;
+  width: 125px !important;
+  left: 40px !important;
+  margin-top: 0px !important;
+  margin-bottom: 5px !important;
+}
+.cardparagraph {
+  width: 378px !important;
+  left: 40px !important;
+  top: 0px !important;
+  margin: 0 !important;
+}
+.buttonstyle {
+  background: black !important;
+  border-radius: 2px !important;
+  margin-top: 10px !important;
+  color: white !important;
+  }
+.butstyle {
+  margin-right: 10px !important;
+  border-radius: 2px !important;
+  margin-top: 10px !important;
+}
+.checkinbutton {
+  background: black !important;
+  border-radius: 2px !important;
+  margin-top: 10px !important;
+  float: right;
+}
+.cancelbutton{
+  float: right;
+  margin-top: 10px !important;
+  border-radius: 2px !important;
+  margin-right: 10px;
+}
+.cardstyle{
+  left: 660px;
+  top: -120px;
+  width: 350px;
+  height: 850px;
+  float: right;
+}
+.head{
+  display: flex;
+}
+.title{
+  margin-top: 0 !important;
+}
+.SideModal{
+ float: right;
+ top: 0px;
+ max-width: 350px;
+ 
+}
